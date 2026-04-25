@@ -14,7 +14,7 @@ Once uploaded, I verified that Splunk was successfully indexing the events.
 
 ### Phase 3: Identifying Operational Issues
 Using SPL (Splunk Processing Language), I filtered the logs to find 404 errors. 
-![Search Query](3search.png)
+![Search Query](3search-query.png)
 
 ### Phase 4: Visualizing Traffic Patterns
 I created a visualization of client IP activity to see which users were interacting most with the server.
